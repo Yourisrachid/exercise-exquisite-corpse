@@ -14,4 +14,4 @@ Le café était aux **développeurs juniors** ce que l'électricité était à n
 
 Aussi n'était-ce une surprise pour personne de voir le **bâtiment entier** trembler le jour où notre ~~pauvre~~ machine débordée remit sa plus belle et plus définitive **démission**.
 
-Perfect.
+Correction : Perfect.
